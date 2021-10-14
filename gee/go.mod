@@ -1,3 +1,3 @@
-module example/gee
+module gee
 
 go 1.15
